@@ -7,13 +7,6 @@ Languages used in the Project:
    FrontEnd: HTML, CSS.
    BackEnd: JavaScript.(Every logic of the game is programmed in JavaScript)
 
-Team:
-  Name: WebsterS
-  Members: 
-    1. Arshaque Mohammed - 16075A0505 - +91 7416 580 623, +91 7702 724 029
-    2. Harsha Vardhan    - 16075A0509 - +91 8341 108 264
-    3. Mahesh            - 16075A0507 - +91 8500 235 107
-
 	To have a look at our project kindly open the "index.html" file. Spot me! is a game which tests the ability of a person. Once the game is loaded, you can see that there are two screens divided. One is for the menu and another for the game screen.
 
 	In menu there are 
