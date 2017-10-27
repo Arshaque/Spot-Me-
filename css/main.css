@@ -1,0 +1,50 @@
+img {
+     position:absolute;
+}
+#screen{
+     width: 1300px;
+     margin-top: 50px;
+     height: 500px;
+    margin-left: 31px;
+    border: 2px solid grey;
+}
+div{
+     display: block;
+}
+#TheLeftSide{
+    top: 180px;
+    left:75px;
+    border: 4px solid grey;
+    border-radius: 10%;
+    height: 400px;
+    width: 400px;
+    float:left;
+    position: absolute;
+}
+#TheLeftSide img{
+    position:alsolute;
+    text-align:left;
+}
+#TheRightSide{
+    height: 500px;
+    width: 800px;
+    float: right;
+    position: relative;
+}/*
+#SpotImage{
+    left: 300px;
+    position: relative;
+    top: 280px;
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+}*/
+#scoreboard{
+    float:right;
+    top:20px;
+    right:20px;
+    border:4px solid #ff6347; 
+    border-radius: 8px;
+    height:50px; width:100px;
+    position:relative;
+}
